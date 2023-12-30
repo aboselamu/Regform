@@ -63,7 +63,8 @@ form .input-box span.details{
   border-color: #b4d402;
 }
  form .gender-details .gender-title{
-  font-size: 20px;
+  font-size: 25px;
+  text-align: center;
   font-weight: 500;
  }
  form .category{
